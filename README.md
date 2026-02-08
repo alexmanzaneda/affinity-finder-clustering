@@ -95,7 +95,7 @@ Experience the intuitive interface of Affinity Finder:
 **Watch Affinity Finder in action**
 
 <video width="640" height="480" controls>
-  <source src="DOCS/media/affinity_demo.mp4" type="video/mp4">
+  <source src="DOCS/media/affinity_demo_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
