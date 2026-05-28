@@ -31,7 +31,9 @@ Perfect for:
 
 **Watch Affinity Finder in action**
 
-<video src="DOCS/media/affinity_demo_compressed.mp4" width="640" controls="controls" style="max-width: 100%;"></video>
+<video src="https://github.com/alexmanzaneda/affinity-finder-clustering/raw/refs/heads/main/DOCS/media/affinity_demo.mp4" width="640" controls="controls" style="max-width: 100%;"></video>
+
+
 
 *Features: User authentication • Profile Menu • View Affinity Groups • Create Forms*
 
