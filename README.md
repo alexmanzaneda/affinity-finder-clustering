@@ -23,39 +23,21 @@ Perfect for:
 - 📊 Data-driven decision making
 - 🔬 Clustering research and experimentation
 
-## Key Features
+## 🎬 Demo & Visual Gallery
 
-### 🎯 Advanced Clustering Engine
-- **K-means Implementation** with configurable cluster count
-- **Elbow Method** for automatic optimal K detection
-- **Silhouette Score** evaluation for cluster quality assessment
-- Distance-based centroid assignment with iterative optimization
+### Demo Video
 
-### 📈 Data Visualization
-- **Interactive Scatter Plots** using PCA decomposition for dimensionality reduction
-- **3D Visualization Support** with Jzy3d
-- Real-time cluster visualization and analysis
-- Eigenvalue-based PCA for multi-dimensional data representation
+<div align="center">
 
-### 📋 Form & Survey Management
-- Create custom forms with multiple question types
-- Import/export forms and answer data
-- Manage user profiles and responses
-- Track respondent metadata
+**Watch Affinity Finder in action**
 
-### 💾 Robust Data Persistence
-- JSON-based data storage
-- Profile management with unique identifiers
-- Answer history tracking
-- Cluster result persistence
+<video src="DOCS/media/affinity_demo_compressed.mp4" width="640" controls="controls" style="max-width: 100%;"></video>
 
-### 🎨 Professional Desktop UI
-- Built with Swing for responsive interface
-- Form creation and editing workflows
-- Affinity group visualization and exploration
-- User-friendly profile management
+*Features: User authentication • Profile Menu • View Affinity Groups • Create Forms*
 
-## 🎬 Visual Gallery & Demo
+</div>
+
+---
 
 ### Screenshots
 
@@ -88,22 +70,40 @@ Experience the intuitive interface of Affinity Finder:
   </tr>
 </table>
 
-### Demo Video
 
-<div align="center">
 
-**Watch Affinity Finder in action**
+## Key Features
 
-<video width="640" height="480" controls>
-  <source src="DOCS/media/affinity_demo_compressed.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### 🎯 Advanced Clustering Engine
+- **K-means Implementation** with configurable cluster count
+- **Elbow Method** for automatic optimal K detection
+- **Silhouette Score** evaluation for cluster quality assessment
+- Distance-based centroid assignment with iterative optimization
 
-*Features: User authentication • Profile Menu • View Affinity Groups • Create Forms*
+### 📈 Data Visualization
+- **Interactive Scatter Plots** using PCA decomposition for dimensionality reduction
+- **3D Visualization Support** with Jzy3d
+- Real-time cluster visualization and analysis
+- Eigenvalue-based PCA for multi-dimensional data representation
 
-</div>
+### 📋 Form & Survey Management
+- Create custom forms with multiple question types
+- Import/export forms and answer data
+- Manage user profiles and responses
+- Track respondent metadata
 
----
+### 💾 Robust Data Persistence
+- JSON-based data storage
+- Profile management with unique identifiers
+- Answer history tracking
+- Cluster result persistence
+
+### 🎨 Professional Desktop UI
+- Built with Swing for responsive interface
+- Form creation and editing workflows
+- Affinity group visualization and exploration
+- User-friendly profile management
+
 
 ## Technology Stack
 
